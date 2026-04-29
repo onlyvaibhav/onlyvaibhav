@@ -116,3 +116,6 @@ vaibhav@system:~$ exit
 <p align="center">
 <sub>uptime: ∞ | build → test → iterate</sub>
 </p>
+<p align="center">
+<sub>just coffee and code</sub>
+</p>
